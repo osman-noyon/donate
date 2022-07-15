@@ -198,6 +198,17 @@ section {
     width: 50%;
 }
 
+.blog_textarea p{
+    text-align: left;
+    width: 94%;
+}
+
+#blog_button{
+    text-align: left;
+    margin-top: 25px;
+    margin-left: -5px;
+}
+
 .section_header{
     padding: 10px 25px;
 }
